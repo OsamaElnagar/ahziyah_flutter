@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756648145282",
+    "project_id": "ahziyah-d0a2b",
+    "storage_bucket": "ahziyah-d0a2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756648145282:android:5a8b88cdd706ccc5fd1f9b",
+        "android_client_info": {
+          "package_name": "com.example.ahziyah_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0mD-D5jIpj6-WjWs-6lx4L_vVr9t1Rm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
